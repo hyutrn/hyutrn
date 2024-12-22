@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Trong Huy
-- 🌱 I’m currently studying Computer Engineering at University of Information Technology
-- 💼 I’m currently interning as a C/C++ Embedded Developer at TMA Solutions
-- 🚀 Eager to expand my knowledge and continuously improve
+- 🌱 I am currently studying Computer Engineering at the University of Information Technology, and will graduate with a Bachelor's degree in 2025
+- 💼 I interned as a C/C++ Embedded Developer at TMA Solutions
+- 🚀 Desire to expand knowledge and continuously improve. Especially knowledge of Embedded, IoT, Automotive and Autosar programming
 - 🔍 Actively seeking new opportunities and ready to take on future challenges
-- ✨ Contact: tronghuy.uit@gmail.com 
+- ✨ Contact: tronghuy.uit@gmail.com or phone number: 0984 417 423
 <!---
 hyutrn/hyutrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
