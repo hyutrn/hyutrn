@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Trong Huy
-- 🌱 I am currently studying Computer Engineering at the University of Information Technology, and will graduate with a Bachelor's degree in 2025
+- 🌱 I am currently studying Computer Engineering (majoring in Embedded and IoT) at the University of Information Technology and will graduate with a Bachelor's degree in 2025.
 - 💼 I interned as a C/C++ Embedded Developer at TMA Solutions
 - 🚀 Desire to expand knowledge and continuously improve. Especially knowledge of Embedded, IoT, Automotive and Autosar programming
 - 🔍 Actively seeking new opportunities and ready to take on future challenges
