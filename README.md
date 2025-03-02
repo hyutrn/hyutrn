@@ -3,6 +3,7 @@
 - 💼 I interned as a C/C++ Embedded Developer at TMA Solutions
 - 🚀 Desire to expand knowledge and continuously improve. Especially knowledge of Embedded, IoT, Automotive and Autosar programming
 - 🔍 Actively seeking new opportunities and ready to take on future challenges
+- 💼 EasyEDA account: https://oshwlab.com/20520555/works
 - ✨ Contact: tronghuy.uit@gmail.com or phone number: 0984417423
 <!---
 hyutrn/hyutrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
